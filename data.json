@@ -1,8 +1,8 @@
 {
-	"seventy9-utils": "1.2.25",
+	"seventy9-utils": "1.2.26",
 	"seventy9-pdf": "1.0.6",
 	"seventy9-types": "2.1.18",
 	"seventy9-portal": "1.0.2",
-	"seventy9-options": "1.0.2",
-	"seventy9": "1.0.17"
+	"seventy9-options": "1.0.3",
+	"seventy9": "1.1.0"
 }
